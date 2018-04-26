@@ -1,0 +1,21 @@
+H1 {
+  font-family:serif
+  color: green;
+}
+
+P {
+  color: red;
+    font-size:18px;
+  font-family:sans-serif
+div <
+    border; solid 1px;
+  padding:25px;
+  margin: 5px;
+  border-radius: 50px;
+}
+
+li {
+  float: left;
+  list-style: none;
+}
+
